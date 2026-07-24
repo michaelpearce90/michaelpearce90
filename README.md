@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelpearce90/michaelpearce90/main/assets/profile-header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelpearce90/michaelpearce90/main/assets/profile-header-light.png">
   <img
     alt="Michael Pearce. Systems, infrastructure and web hosting. Learning development through real projects. Learn, Build, Solve, Open source."
-    src="./assets/profile-header-light.png"
+    src="https://raw.githubusercontent.com/michaelpearce90/michaelpearce90/main/assets/profile-header-light.png"
     width="100%"
   >
 </picture>
