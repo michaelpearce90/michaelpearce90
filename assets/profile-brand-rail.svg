@@ -22,8 +22,8 @@
     <circle cx="1050" cy="132" r="27" fill="#101722" stroke="#c39aff" stroke-width="8"/>
 
     <text x="145" y="91" fill="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.5">LEARN</text>
-    <text x="432" y="91" filll="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.5">BUILD</text>
-    <text x="730" y="91" filll="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.5">SOLVE</text>
+    <text x="432" y="91" fill="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.5">BUILD</text>
+    <text x="730" y="91" fill="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.5">SOLVE</text>
     <text x="1050" y="91" fill="#f4f7fb" font-size="38" font-weight="800" letter-spacing="1.2">OPEN SOURCE</text>
   </g>
 
