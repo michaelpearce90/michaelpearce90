@@ -1,8 +1,4 @@
-# Michael Pearce
-
-**Web hosting since 2009 | Systems and infrastructure | Learning development through real projects**
-
-![Learn, Build, Solve, Open source. A practical path from learning through building and solving to useful open-source work.](./assets/profile-brand-rail.svg)
+**Systems and infrastructure since 2007. Web hosting since 2009. Now learning development through real projects.**
 
 > I usually understand why a problem matters before deciding how to solve it.
 
