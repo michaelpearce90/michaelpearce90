@@ -1,8 +1,8 @@
-**Systems and infrastructure since 2007. Web hosting since 2009. Now learning development through real projects.**
+**Hands-on with systems and infrastructure since 2007. Working in web hosting since 2009. Now learning development with AI through real projects.**
 
 > I usually understand why a problem matters before deciding how to solve it.
 
-I have worked across hosting support, servers and infrastructure, DNS, domains, email, operations, management and technical leadership.
+I have worked across web hosting support, servers and infrastructure, DNS, domains, email, operations, management and technical leadership.
 
 I am now learning development by building around problems I already understand, using AI as a practical tool while staying honest about what I know and what I am still learning.
 
