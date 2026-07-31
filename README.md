@@ -1,4 +1,4 @@
-**Hands-on with systems and infrastructure since 2007. Working in web hosting since 2009. Now learning development with AI through real projects.**
+**Into computers and building them since the early 2000s. Hands-on with systems, infrastructure and web hosting since 2007. Working professionally in web hosting since 2009. Now learning development with AI through real projects.**
 
 > I usually understand why a problem matters before deciding how to solve it.
 
