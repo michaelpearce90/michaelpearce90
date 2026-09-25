@@ -25,6 +25,12 @@ If you have a hosting, DNS, domain, email or migration problem you want another 
 
 I take on occasional one-off work with a clear scope and hand-back, and I'll tell you whether it's something I can sensibly help with before we agree anything.
 
+## Support my work
+
+If you find my public work useful and want to support it, you can do that on Ko-fi. It doesn't buy support, priority, access or a service.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O1H527NROT)
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/michaelpearce90/)
