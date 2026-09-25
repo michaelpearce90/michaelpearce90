@@ -19,6 +19,12 @@ I am now learning development by building around problems I already understand, 
 - Development and AI through real projects
 - Useful public work that is documented and safe to release
 
+## Work with me
+
+If you have a hosting, DNS, domain, email or migration problem you want another pair of eyes on, message me on LinkedIn.
+
+I take on occasional one-off work with a clear scope and hand-back, and I'll tell you whether it's something I can sensibly help with before we agree anything.
+
 ## Elsewhere
 
-[pearce.me](https://pearce.me) | [LinkedIn](https://www.linkedin.com/in/michaelpearce90/)
+[LinkedIn](https://www.linkedin.com/in/michaelpearce90/)
